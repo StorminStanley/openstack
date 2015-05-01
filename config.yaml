@@ -2,12 +2,10 @@
 # Specify one of sectio token or password. If both are provided token will
 # take precedence. Since tokens are epehemral It might be suitable to use
 # password style authetication.
-token:
-    OS_TOKEN: ""
-    OS_URL: ""
+token: {}
 password:
-    OS_AUTH_URL: ""
-    OS_TENANT_ID: ""
-    OS_TENANT_NAME: ""
-    OS_USERNAME: ""
-    OS_PASSWORD: ""
+    OS_AUTH_URL: http://23.246.246.66:5000/v2.0
+    OS_TENANT_ID: faa18c9940684d729236f714a7b5367f
+    OS_TENANT_NAME: manas@stackstorm.com
+    OS_USERNAME: manas@stackstorm.com
+    OS_PASSWORD: purplemango714
