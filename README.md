@@ -1,5 +1,7 @@
 # Openstack Integration Pack
 
+## This repo has moved! Please go to [StackStorm-Exchange/stackstorm-openstack](https://github.com/StackStorm-Exchange/stackstorm-openstack).
+
 StackStorm pack for OpenStack integration.
 
 ## Configuration
